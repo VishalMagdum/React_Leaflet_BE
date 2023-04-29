@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "643fb32d4920e495f28e4011"
+  },
+  "userEmail": "abc@gmail.com",
+  "project_Name": "project 1",
+  "folders": [
+    {
+      "folderName": "Folder 1.0",
+      "folderType": "folder",
+      "childs": [
+        {
+          "folderName": "folder 1.1",
+          "folderType": "folder",
+          "childs": [
+            {
+              "folderName": "https://res.cloudinary.com/dmsmxdh1n/raw/upload/v1681978479/App_znkuxl.js",
+              "folderType": "file"
+            },
+            {
+              "folderName": "https://res.cloudinary.com/dmsmxdh1n/raw/upload/v1682012604/index_em1ap6.js",
+              "folderType": "file"
+            }
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "643fb32d4920e495f28e4012"
+      }
+    },
+    {
+      "folderName": "Folder 2.0",
+      "folderType": "folder",
+      "childs": [
+        {
+          "folderName": "folder 2.1",
+          "folderType": "folder",
+          "childs": [
+            {
+              "folderName": "file 2.1.1",
+              "folderType": "file"
+            },
+            {
+              "folderName": "file 2.1.2",
+              "folderType": "file"
+            }
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "643fb32d4920e495f28e4013"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-19T09:23:57.444Z"
+  }
+},{
+  "_id": {
+    "$oid": "643fb3a6443ac8ffb806e002"
+  },
+  "userEmail": "abc@gmail.com",
+  "project_Name": "project 2",
+  "folders": [
+    {
+      "folderName": "Folder 1.0",
+      "folderType": "folder",
+      "childs": [
+        {
+          "folderName": "folder 1.1",
+          "folderType": "folder",
+          "childs": [
+            {
+              "folderName": "file 1.1.1",
+              "folderType": "file"
+            },
+            {
+              "folderName": "file 1.1.2",
+              "folderType": "file"
+            }
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "643fb3a6443ac8ffb806e003"
+      }
+    },
+    {
+      "folderName": "Folder 2.0",
+      "folderType": "folder",
+      "childs": [
+        {
+          "folderName": "folder 2.1",
+          "folderType": "folder",
+          "childs": [
+            {
+              "folderName": "file 2.1.1",
+              "folderType": "file"
+            },
+            {
+              "folderName": "file 2.1.2",
+              "folderType": "file"
+            }
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "643fb3a6443ac8ffb806e004"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-19T09:25:58.697Z"
+  }
+},{
+  "_id": {
+    "$oid": "643fb3c7ffb4f0d2ff7468d9"
+  },
+  "userEmail": "vish@gmail.com",
+  "project_Name": "project 1",
+  "folders": [
+    {
+      "folderName": "Folder 1.0",
+      "folderType": "folder",
+      "childs": [
+        {
+          "folderName": "folder 1.1",
+          "folderType": "folder",
+          "childs": [
+            {
+              "folderName": "file 1.1.1",
+              "folderType": "file"
+            },
+            {
+              "folderName": "file 1.1.2",
+              "folderType": "file"
+            }
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "643fb3c7ffb4f0d2ff7468da"
+      }
+    },
+    {
+      "folderName": "Folder 2.0",
+      "folderType": "folder",
+      "childs": [
+        {
+          "folderName": "folder 2.1",
+          "folderType": "folder",
+          "childs": [
+            {
+              "folderName": "file 2.1.1",
+              "folderType": "file"
+            },
+            {
+              "folderName": "file 2.1.2",
+              "folderType": "file"
+            }
+          ]
+        }
+      ],
+      "_id": {
+        "$oid": "643fb3c7ffb4f0d2ff7468db"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-19T09:26:31.158Z"
+  }
+}]
